@@ -1,5 +1,7 @@
 # Network
-Network [Twitter]-like(https://twitter.com/) social network website for making posts and following users.Django is the main web framework used for this project.
+Network [Twitter](https://twitter.com/)-like social network website for making posts and following users.
+
+Django is the main web framework used for this project.
 
 ## Overview
 Network is the fourth project for Harvard CS50's Web Programming with Python and JavaScript course. The project specifications are listed [here](https://cs50.harvard.edu/web/2020/projects/4/network/).
@@ -9,16 +11,16 @@ A [full demo of my project](https://www.youtube.com/watch?v=ytE-XncLtc0) can be 
 
 Note the quality of the following clips may be lower due to conversion from video to GIF format. <br/>
 
-**Login and Register** <br/>
-<img src="network/static/login.gif" width=62%/>
-**Create Post** <br/>
-<img src="network/static/create.gif" width=62%/>
-**Profile** <br/>
-<img src="network/static/profile.gif" width=62%/>
-**Following** <br/>
-<img src="network/static/following.gif" width=62%/>
-**Like or Unlike ** <br/>
-<img src="network/static/like.gif" width=62%/><br>
+**Login and Register** <br><br><br>
+<img src="network/static/login.gif" width=62%/><br><br>
+**Create Post** <br/><br><br>
+<img src="network/static/create.gif" width=62%/><br><br>
+**Profile** <br/><br><br>
+<img src="network/static/profile.gif" width=62%/><br><br>
+**Following** <br/><br><br>
+<img src="network/static/following.gif" width=62%/><br><br>
+**Like or Unlike ** <br/><br><br>
+<img src="network/static/like.gif" width=62%/><br><br>
 
 
 ### Architecture
